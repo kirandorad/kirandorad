@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kiran Dorad</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img aligbn = "right" alt"coding" width"400" src= "https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40stomg7969%2Fmake-your-own-leet-with-ruby-entry-level-39894b579c87&psig=AOvVaw2BmG5qajiV6QpEHd3-dCMI&ust=1700024308883000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMjNyJrawoIDFQAAAAAdAAAAABAJ">
+<img aligbn = "right" alt"coding" width"400" src= "https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40stomg7969%2Fmake-your-own-leet-with-ruby-entry-level-39894b579c87&psig=AOvVaw2BmG5qajiV6QpEHd3-dCMI&ust=1700024308883000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMjNyJrawoIDFQAAAAAdAAAAABAJ.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirandorad&label=Profile%20views&color=0e75b6&style=flat" alt="kirandorad" /> </p>
 
